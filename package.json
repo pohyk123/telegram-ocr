@@ -1,0 +1,16 @@
+{
+  "name": "telegram-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "axios": "^0.23.0",
+    "qs": "^6.10.1",
+    "request": "^2.88.2",
+    "telegraf": "^4.4.2"
+  },
+  "devDependencies": {}
+}
