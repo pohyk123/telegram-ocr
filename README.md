@@ -16,7 +16,7 @@ Using Azure Functions + Computer Vision with Telegram Bot API, you can now do OC
 
 ### Installing and executing program
 1. Before starting, do familiarise yourself with this [article](https://www.codeproject.com/Tips/5274291/Building-a-Telegram-Bot-with-Azure-Functions-and-N) written by Roman Akhromieiev
-2. Clone this Repo
+2. Open VSCode and clone this Repo
 ```
 git clone https://github.com/pohyk123/telegram-ocr
 ```
@@ -24,7 +24,7 @@ git clone https://github.com/pohyk123/telegram-ocr
 ```
 npm install
 ```
-4. In VSCode, login under your Azure subscription and create a new Azure Function. When prompted to use an existing project or create a new project, select an existing project.
+4. In VSCode, login under your Azure subscription and select "Deploy to Function App".
 
 5. Follow through and create a new Azure Function with its own unique name (e.g. xxx-telegram-ocr)
 
