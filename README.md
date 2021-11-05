@@ -29,9 +29,9 @@ npm install
 5. Follow through and create a new Azure Function with its own unique name (e.g. xxx-telegram-ocr)
 
 6. Head over to Azure Portal and update the following environment variables:
-    * TELEGRAM_BOT_TOKEN
-    * WEBHOOK_ADDRESS
-    * CV_SUBSCRIPTION_KEY
+    * [TELEGRAM_BOT_TOKEN](https://core.telegram.org/bots#creating-a-new-bot)
+    * [WEBHOOK_ADDRESS](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal#test-the-function)
+    * [CV_SUBSCRIPTION_KEY](https://docs.microsoft.com/en-us/azure/cognitive-services/cognitive-services-apis-create-account?tabs=singleservice%2Cwindows#get-the-keys-for-your-resource)
     
 7. Once created, return to VSCode and deploy your Azure Function!
 
