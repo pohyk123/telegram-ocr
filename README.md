@@ -3,6 +3,8 @@
 
 Using Azure Functions + Computer Vision with Telegram Bot API, you can now do OCR without having to install another phone app!
 
+Start [interacting with him on Telegram](http://t.me/readMyImgBot)!
+
 ## Getting Started
 
 ### Dependencies
