@@ -1,7 +1,7 @@
 # OCR ChatBot on Telegram
 ## Description
 
-Using Azure Functions + Computer Vision with Telegram Bot API, you can now do OCR without having to install another app!
+Using Azure Functions + Computer Vision with Telegram Bot API, you can now do OCR without having to install another phone app!
 
 ## Getting Started
 
