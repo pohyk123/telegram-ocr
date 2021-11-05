@@ -49,4 +49,4 @@ Contributors names and contact info
 ## Acknowledgements/References
 
 * [Building a Telegram Bot with Azure Functions and Node.js](https://www.codeproject.com/Tips/5274291/Building-a-Telegram-Bot-with-Azure-Functions-and-N)
-* [My Blog Post Write-up](https://tinkeringjourneys.wordpress.com/)
+* [My Blog Post Write-up](https://tinkeringjourneys.wordpress.com/2021/11/05/ocr-at-your-fingertips/)
